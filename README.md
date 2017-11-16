@@ -40,7 +40,7 @@ Or, with npm:
 
 ## Motivation
 
-The foundations of this library have been laid on StackOverflow, after I've managed to provide [a meaningful answer](map given the 'value' property of all the nested objects) to this problem: create a key-value object given a JSON and a certain property, which is common among some of the nested objects.
+The foundations of this library have been laid on StackOverflow, after I've managed to provide [a meaningful answer](https://stackoverflow.com/a/47260223/6174476) to this problem: create a key-value object given a JSON and a certain property, which is common among some of the nested objects.
 In other words, the problem this package solves is converting a JSON to a map structure (key-value object), filtering out the unnecessary props.
 Hence the name json2kv.
 
