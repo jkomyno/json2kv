@@ -1,0 +1,92 @@
+{
+  "id": "Device_6",
+  "type": "SensingDevice",
+  "Battery": {
+    "type": "Number",
+    "value": "4.08",
+    "metadata": {
+      "timestamp": {
+        "type": "DateTime",
+        "value": "2017-11-09T14:49:02.00Z"
+      },
+      "unit": {
+        "type": "Text",
+        "value": "voltage"
+      }
+    }
+  },
+  "location": {
+    "value": {
+      "coordinates": "Some location value"
+    }
+  },
+  "someObjWithoutValue": {
+    "yep": "nope"
+  },
+  "DO": {
+    "type": "Number",
+    "value": "5.71",
+    "metadata": {
+      "timestamp": {
+        "type": "DateTime",
+        "value": "2017-11-09T14:49:02.00Z"
+      },
+      "unit": {
+        "type": "Text",
+        "value": "mg/l"
+      }
+    }
+  },
+  "Humidity": {
+    "type": "Number",
+    "value": "57.30",
+    "metadata": {
+      "timestamp": {
+        "type": "DateTime",
+        "value": "2017-11-09T14:49:02.00Z"
+      },
+      "unit": {
+        "type": "Text",
+        "value": "percent"
+      }
+    }
+  },
+  "PH": {
+    "type": "Number",
+    "value": "14.00",
+    "metadata": {
+      "timestamp": {
+        "type": "DateTime",
+        "value": "2017-11-09T14:49:02.00Z"
+      }
+    }
+  },
+  "temperature": {
+    "type": "Number",
+    "value": "41.00",
+    "metadata": {
+      "timestamp": {
+        "type": "DateTime",
+        "value": "2017-11-09T14:49:02.00Z"
+      },
+      "unit": {
+        "type": "Text",
+        "value": "celsius"
+      }
+    }
+  },
+  "waterTemperature": {
+    "type": "Number",
+    "value": "29.69",
+    "metadata": {
+      "timestamp": {
+        "type": "DateTime",
+        "value": "2017-11-09T14:49:02.00Z"
+      },
+      "unit": {
+        "type": "Text",
+        "value": "celsius"
+      }
+    }
+  }
+}
